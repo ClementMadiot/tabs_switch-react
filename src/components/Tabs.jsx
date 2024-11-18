@@ -1,7 +1,6 @@
 import React, { useState } from "react";
-import { tabsData } from "../tabs";
 
-export const Tabs = () => {
+export const Tabs = ({tabsData}) => {
   const [selectedTabs, setSelectedTabs] = useState(0);
   // console.log(tabsData);
   // console.log(selectedTabs);
@@ -19,6 +18,7 @@ export const Tabs = () => {
           </button>
         ))}
       </article>
+
 
       <article className="text-slate-100 px-6 pt-6 pb-10">
           <p className="text-2xl font-semibold mb-2">
