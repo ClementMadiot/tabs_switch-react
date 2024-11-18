@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="" target="_blanck"><img src="./public" alt=""></a>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm0weTBmbzJ6emV3d3g4MGhhcm5sbWk4aTUwcXd4cHlxZmd6dnA1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gmkeuVaEpEpJ4WUx1P/giphy.gif" alt="switch tab"/>
    <div align="center">
         <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
         <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
@@ -22,9 +22,9 @@
 
 ## <a name="features">📝 Features</a>
 
-👉 **Dynamic Content Switching**: Allows users to switch between three different options by clicking on their respective titles.
-👉 **Clean and Modern UI**: Leverages Tailwind CSS for a visually appealing and responsive user interface.
-👉 **Efficient Data Handling**: Utilizes a JavaScript array to store option data and the map method to render the options dynamically.
+- 👉 **Dynamic Content Switching**: Allows users to switch between three different options by clicking on their respective titles.
+- 👉 **Clean and Modern UI**: Leverages Tailwind CSS for a visually appealing and responsive user interface.
+- 👉 **Efficient Data Handling**: Utilizes a JavaScript array to store option data and the map method to render the options dynamically.
 
 ## <br /> <a name="tech-stack">🛠 Technology Used</a>
 
