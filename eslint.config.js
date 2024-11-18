@@ -33,6 +33,12 @@ export default [
         'warn',
         { allowConstantExport: true },
       ],
+      "react/prop-types": "off",
+      "react/jsx-uses-react": "error",
+      "react/no-unknown-property": ["error", { ignore: ["jsx"] }],
+      "no-unused-vars": "off",
+      "react/jsx-uses-vars": "error",
+      "react/no-unescaped-entities": "off",
     },
   },
 ]
